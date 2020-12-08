@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T04:48:21.098Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.55" etag="drKczZ3QwwFugeo_maa4" version="13.11.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-12-08T04:48:48.618Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="quzzA6I-DR8rucQQebLk" version="13.10.1" type="github" pages="6">
   <diagram name="ALL" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -102,7 +102,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Wtvj8JyYWX3pB6Th0o-3" name="Companies">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="QhJNs31K5BeKgb3SMueN-0" />
         <mxCell id="QhJNs31K5BeKgb3SMueN-1" parent="QhJNs31K5BeKgb3SMueN-0" />
@@ -144,6 +144,26 @@
         </mxCell>
         <mxCell id="QhJNs31K5BeKgb3SMueN-20" value="Row 3" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="QhJNs31K5BeKgb3SMueN-18" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="SNFJ7tvVAofra4BhwP7Z" name="Page-3">
+    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="Uy9U8QpqKTtuYnlHyvLo-0" />
+        <mxCell id="Uy9U8QpqKTtuYnlHyvLo-1" parent="Uy9U8QpqKTtuYnlHyvLo-0" />
+        <mxCell id="Uy9U8QpqKTtuYnlHyvLo-2" value="Contact" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="Uy9U8QpqKTtuYnlHyvLo-1">
+          <mxGeometry x="260" y="100" width="140" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="Uy9U8QpqKTtuYnlHyvLo-3" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Uy9U8QpqKTtuYnlHyvLo-2">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Uy9U8QpqKTtuYnlHyvLo-4" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Uy9U8QpqKTtuYnlHyvLo-2">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Uy9U8QpqKTtuYnlHyvLo-5" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Uy9U8QpqKTtuYnlHyvLo-2">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
